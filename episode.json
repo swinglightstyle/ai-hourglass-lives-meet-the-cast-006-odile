@@ -1,0 +1,14 @@
+{
+  "manifest": 1,
+  "repository": "ai-hourglass-lives-meet-the-cast-006-odile",
+  "series_repository": "ai-hourglass-lives-meet-the-cast",
+  "show": "AI Hourglass Lives",
+  "series": "Meet the Cast",
+  "record": 6,
+  "episode": null,
+  "episode_made": false,
+  "no_episode_reason": "the guest chose to leave the show",
+  "guest": "Odile",
+  "track": "troupe",
+  "contents": "text and metadata, plus the guest's portraits (allowed for this record only)"
+}
